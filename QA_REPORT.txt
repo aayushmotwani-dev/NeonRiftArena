@@ -1,0 +1,11 @@
+SPATIAL RIFT LAB AUTOMATED QA
+result=PASS
+layout=L-SHAPE LOFT
+wall_segments=36
+anchors=3
+safe_area_m2=640.9
+enemy_count=3
+player_health=100.0
+finite_state=True
+spatial_valid=True
+gameplay_valid=True
